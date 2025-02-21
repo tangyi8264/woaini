@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+     <html>
+     <head>
+         <title>表白页面</title>
+         <style>
+             body {
+                 font-family: Arial, sans-serif;
+                 text-align: center;
+                 background-color: #f9f9f9;
+                 padding: 50px;
+             }
+             h1 {
+                 color: #ff6b6b;
+             }
+             p {
+                 font-size: 20px;
+                 color: #333;
+             }
+         </style>
+     </head>
+     <body>
+         <h1>❤️ 我喜欢你！ ❤️</h1>
+         <p>你是我的偏爱，也是我的唯一。</p >
+         <p>你愿意和我一起走下去吗？</p >
+         <p>—— [妮妮]</p >
+     </body>
+     </html>
